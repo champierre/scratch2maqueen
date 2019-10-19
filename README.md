@@ -15,3 +15,5 @@ With Scratch2Maqueen, you can control [DFRobot Maqueen](https://wiki.dfrobot.com
 2. Open [https://champierre.github.io/scratch3/](https://champierre.github.io/scratch3/).
 
 3. Open "Choose an Extension" window and select "Scratch2Maqueen".
+
+    <img src="images/extension.png" />
