@@ -17,3 +17,7 @@ With Scratch2Maqueen, you can control [DFRobot Maqueen](https://wiki.dfrobot.com
 3. Open "Choose an Extension" window and select "Scratch2Maqueen".
 
     <img src="images/extension.png" />
+
+4. Run [Scratch Link](https://scratch.mit.edu/microbit), then connect to the micro:bit set on Maqueen.
+
+5. After you connect to the micro:bit, you need to calibrate the micro:bit compass. ([Calibrating the micro:bit Compass](https://support.microbit.org/support/solutions/articles/19000008874-calibrating-the-micro-bit-compass))
