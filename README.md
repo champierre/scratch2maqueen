@@ -10,7 +10,7 @@ With Scratch2Maqueen, you can control [DFRobot Maqueen](https://wiki.dfrobot.com
 
 1. You need the special hex file to be downloaded to your micro:bit. Open the MakeCode project below, then click Download to install the .hex file.
 
-    &raquo;[MakeCode project:scratch2maqueen](https://makecode.microbit.org/_hwPP6rhuJMRv))
+    &raquo;[MakeCode project:scratch2maqueen](https://makecode.microbit.org/_fMsey96tTYCW))
 
 2. Open [https://champierre.github.io/scratch3/](https://champierre.github.io/scratch3/).
 
