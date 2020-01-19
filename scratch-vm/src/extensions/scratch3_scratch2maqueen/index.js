@@ -343,14 +343,6 @@ class MicroBitMore {
 
         const dataView = new DataView(new ArrayBuffer(2));
         dataView.setUint16(0, 0, true);
-
-        // To stop continuous tick sound.
-        this.send(BLECommand.CMD_PIN_PWM,
-            new Uint8Array([
-                0,
-                dataView.getUint8(0),
-                dataView.getUint8(1)]),
-            null);
     }
 
     /**
