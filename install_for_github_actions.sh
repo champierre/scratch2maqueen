@@ -23,7 +23,7 @@ DESCRIPTION="\
             <FormattedMessage${LF}\
                 defaultMessage='Control DFRobot Maqueen.'${LF}\
                 description='Control DFRobot Maqueen.'${LF}\
-                id='gui.extension.scratch2maqueen.description'${LF}\
+                id='gui.extension.scratch2maqueenblocks.description'${LF}\
             />${LF}\
         ),${LF}\
         featured: true,${LF}\
